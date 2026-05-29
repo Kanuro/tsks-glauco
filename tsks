@@ -264,3 +264,61 @@ int main()
 
 	return 0;
 	}
+
+
+
+
+
+
+#include <stdio.h>
+
+int main(){
+	
+	int i,a, b;
+
+    do {
+    	printf("\n1-somar");
+		scanf("%i", &a);
+		
+		
+   }while (0);
+   do {
+    	printf("\n2-multiplicar");
+		scanf("%i", &b);
+		
+	
+   }while (0);
+   
+   printf("resultado soma = %d\n", a+ a);
+printf("resultado multiplicaçao = %d\n", b * b);
+  printf("parabens seu mongol, agr vai embora");
+	printf("\nsair: enter");
+	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
